@@ -4,6 +4,8 @@ import static org.junit.Assert.*;
 
 import org.junit.Test;
 
+
+// may all be lies..
 public class TestThisWontFail {
     @Test
     public void aPassingTest() {
